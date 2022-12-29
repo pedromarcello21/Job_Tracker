@@ -4,7 +4,7 @@ This repository provides the tools for those looking for their next professional
 
 The Master_Job_Tracker is the excel file that is written to and read by the program and consists of 5 columns, Company, Alumni, Motivation, Postings, and Reminders.  Here are the indications of each column:
 
-Company: A list companies provided by the user.  This column is the index for both the tracker file and python program. 
+Company: A list companies provided by the user.  This column is the index for both the tracker file and python program.
 Alumni: Indicates if the user knows of anyone working at the company (Y/N).  
 Motivation: A scale of how interested the user is in the company.  The levels are High, Medium, or Low (H/M/L). 
 Postings: Indication if the company has any job vacancies open on any professional website such as LinkedIn, Glassdoor, ZipRecuiter (Y/N).  
